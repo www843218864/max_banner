@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
         pager = (ViewPager) findViewById(R.id.pager);
         lin = (LinearLayout) findViewById(R.id.lin);
         addView();
+        //
 
 
         addPaint();
